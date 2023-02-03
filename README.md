@@ -2,7 +2,7 @@
 To run app follow these steps:
 1. You should have docker.
 2. Create env files for different stages in config directory(There examples).
-3. Run these commands' step by step.
+3. Run next commands' sequentially.
 ```bash
 # development
 $ npm run start:dev
